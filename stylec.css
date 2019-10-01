@@ -1,0 +1,33 @@
+*{
+    margin: 30px;
+    padding: 15px;
+    box-sizing: border-box;
+
+}
+div{
+    height: 500px;
+    color: darkmagenta;
+    text-align: center;
+    font-size: 60px;
+    align-items: center;
+}
+.bobmay{
+    background: url("./bob.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+}
+.dhanbad{
+    background: url("./ism_heritage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+}
+.delhi{
+    background: url("./IIT-Delhi.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+}
+.roorkee{
+    background: url("./121004011141_iitroorkee.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+}
